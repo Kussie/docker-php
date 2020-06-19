@@ -106,6 +106,7 @@ RUN apt-get update \
 	libxtst6 \
 	lsb-release \
 	xdg-utils \
+	libxcb-dri3-0 \
         wget \
      && apt-get clean \
      && rm -rf /var/lib/apt/lists/*
