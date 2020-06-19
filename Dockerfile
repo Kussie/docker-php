@@ -60,7 +60,6 @@ RUN apt-get update \
         libxi6 \
         libxrandr2 \
         libxrender1 \
-        libxss1 \
         libxtst6 \
         ca-certificates \
         fonts-liberation \
